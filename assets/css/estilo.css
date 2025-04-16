@@ -1,0 +1,19 @@
+h2 {
+  font-size: 17px;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
